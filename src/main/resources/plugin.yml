@@ -1,0 +1,3 @@
+name: GUIPLUS
+version: '${project.version}'
+main: me.abu.guiplus.GUIPLUS
