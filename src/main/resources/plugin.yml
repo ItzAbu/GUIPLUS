@@ -1,3 +1,9 @@
 name: GUIPLUS
 version: '${project.version}'
 main: me.abu.guiplus.GUIPLUS
+commands:
+    guiopen:
+        description: GUIPLUS
+        usage: /guiopen
+        aliases: [gp]
+
